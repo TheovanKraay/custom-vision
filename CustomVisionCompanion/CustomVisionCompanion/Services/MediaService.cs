@@ -52,9 +52,6 @@ namespace CustomVisionCompanion.Services
                 files.Add(file);
                 files.Add(file2);
 
-
-
-                //return file;
                 return files;
             }
 
